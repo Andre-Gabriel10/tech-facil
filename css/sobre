@@ -1,0 +1,36 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background: #fff;
+}
+
+.cabecalho {
+    background: #111;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+}
+
+.menu-navegacao a {
+    color: #fff;
+    margin: 0 12px;
+    text-decoration: none;
+}
+
+.conteudo-sobre {
+    padding: 100px;
+    width: 85%;
+    background: #0099cc;
+    margin: auto;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+.rodape {
+    text-align: center;
+    padding: 80px;
+    background: #111;
+    color: white;
+}
