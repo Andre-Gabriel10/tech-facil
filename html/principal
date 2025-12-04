@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Tech Fácil - Início</title>
+    <link rel="stylesheet" href="principal.css">
+</head>
+<body>
+<header class="cabecalho">
+    <h1>Tech Fácil</h1>
+    <nav class="menu-navegacao">
+        <a href="principal.html">Início</a>
+        <a href="sobre.html">Sobre</a>
+        <a href="inovacao.html">Inovação</a>
+        <a href="produtos.html">Produtos</a>
+        <a href="blog.html">Blog</a>
+        <a href="contato.html">Contato</a>
+        <a href="referencias.html">Referências</a>
+    </nav>
+</header>
+
+<section class="sessao-principal">
+    <h2>Tecnologia descomplicada para você</h2>
+    <p>O melhor conteúdo sobre inovação e tendências tecnológicas.</p>
+</section>
+
+<footer class="rodape">
+    © 2025 Tech Fácil
+</footer>
+</body>
+</html>
