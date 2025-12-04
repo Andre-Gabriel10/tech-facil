@@ -1,0 +1,47 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background: #fff;
+}
+
+.cabecalho {
+    background: #111;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+}
+
+.menu-navegacao a {
+    color: #fff;
+    margin: 0 12px;
+    text-decoration: none;
+}
+
+.conteudo {
+    padding: 100px;
+    width: 85%;
+    background: #0099cc;
+    margin: auto;
+    color: white;
+}
+
+.lista-referencias {
+    margin-top: 30px;
+    list-style-type: square;
+}
+
+.lista-referencias li {
+    margin-bottom: 12px;
+}
+
+.lista-referencias a {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+.rodape {
+    text-align: center;
+    padding: 80px;
+    background: #111;
+    color: white;
+}
