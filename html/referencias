@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Referências - Tech Fácil</title>
+    <link rel="stylesheet" href="referencias.css">
+</head>
+<body>
+
+<header class="cabecalho">
+    <h1>Tech Fácil</h1>
+    <nav class="menu-navegacao">
+        <a href="principal.html">Início</a>
+        <a href="sobre.html">Sobre</a>
+        <a href="inovacao.html">Inovação</a>
+        <a href="produtos.html">Produtos</a>
+        <a href="blog.html">Blog</a>
+        <a href="contato.html">Contato</a>
+        <a href="referencias.html">Referências</a>
+    </nav>
+</header>
+
+<section class="conteudo">
+    <h2>Referências Utilizadas</h2>
+    <p>Abaixo estão listadas todas as fontes utilizadas no desenvolvimento do site.</p>
+
+    <ul class="lista-referencias">
+        <li><a href="https://www.tecmundo.com.br" target="_blank">TecMundo – Notícias de Tecnologia</a></li>
+        <li><a href="https://www.olhar.digital" target="_blank">Olhar Digital – Tecnologia e Inovação</a></li>
+        <li><a href="https://www.wired.com" target="_blank">Wired – Tecnologia e Cultura</a></li>
+        <li><a href="https://www.youtube.com" target="_blank">YouTube – Vídeos utilizados para pesquisa</a></li>
+        <li><a href="https://pixabay.com" target="_blank">Pixabay – Imagens gratuitas</a></li>
+        <li><a href="https://unsplash.com" target="_blank">Unsplash – Banco de imagens</a></li>
+        <li><a href="https://www.ibm.com/topics/artificial-intelligence" target="_blank">IBM – Conteúdo sobre IA</a></li>
+    </ul>
+</section>
+
+<footer class="rodape">
+    © 2025 Tech Fácil
+</footer>
+
+</body>
+</html>
