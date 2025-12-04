@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Sobre - Tech Fácil</title>
+    <link rel="stylesheet" href="sobre.css">
+</head>
+<body>
+<header class="cabecalho">
+    <h1>Tech Fácil</h1>
+    <nav class="menu-navegacao">
+        <a href="principal.html">Início</a>
+        <a href="sobre.html">Sobre</a>
+        <a href="inovacao.html">Inovação</a>
+        <a href="produtos.html">Produtos</a>
+        <a href="blog.html">Blog</a>
+        <a href="contato.html">Contato</a>
+        <a href="referencias.html">Referências</a>
+    </nav>
+</header>
+
+<section class="conteudo-sobre">
+    <h2>Sobre a Tech Fácil</h2>
+    <p>Somos um portal dedicado a tornar o mundo da tecnologia acessível para todos.</p>
+    <p>Nosso objetivo é ajudar pessoas e empresas a entender e implementar inovações de forma simples.</p>
+</section>
+
+<footer class="rodape">
+    © 2025 Tech Fácil
+</footer>
+
+</body>
+</html>
